@@ -4,11 +4,9 @@ body {
   background: rgb(156, 226, 223);
 }
 li {
-  
-  display: flex;
-  justify-content: space-evenly;
   list-style: none;
 }
+
 a{
   font-size: 25px;
   line-height: 2;
