@@ -1,7 +1,7 @@
 body {
   font-family: Arial, Helvetica, sans-serif;
   text-align: center;
-  background: rgb(156, 226, 223)
+  background: rgb(156, 226, 223);
 }
 li {
   
@@ -11,5 +11,6 @@ li {
 }
 a{
   font-size: 25px;
-  color: rgb(49, 9, 49);
+  line-height: 2;
+  color: #d859b4;
 }
