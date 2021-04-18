@@ -1,0 +1,15 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  background: rgb(156, 226, 223)
+}
+li {
+  
+  display: flex;
+  justify-content: space-evenly;
+  list-style: none;
+}
+a{
+  font-size: 25px;
+  color: rgb(49, 9, 49);
+}
